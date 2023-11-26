@@ -1,6 +1,6 @@
 # td_subtitle
 
-![banner](https://github.com/ITonnyPro/td_visualhit/assets/10687575/bd1dd9bd-85e1-4782-b404-cbe7f0d19657)
+![subtitle](https://github.com/ITonnyPro/td_subtitle/assets/10687575/8c8f5c78-c8ef-4d70-9d33-1bcb88771520)
 
 Utilisation : 
 ```exports['td_subtitle']:showSubtitle(name, message, duration)```
