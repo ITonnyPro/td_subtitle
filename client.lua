@@ -14,9 +14,6 @@ RegisterNUICallback('td_subtitle_close', function(args)
 end)
 
 function showSubtitle(name, message, duration)
-    -- BeginTextCommandPrint('STRING')
-    -- AddTextComponentString(message)
-    -- EndTextCommandPrint(duration, true)
     isShowSubtitle = true
     SetNuiFocus(false, false)
     SendNUIMessage({
