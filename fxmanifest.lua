@@ -3,9 +3,6 @@ game 'gta5'
 lua54 'yes'
 description 'TonnyDev Subtitle'
 version '1.0'
-legacyversion '1.9.1'
-
-shared_script '@es_extended/imports.lua'
 
 ui_page {
 	'html/ui.html'
@@ -27,8 +24,5 @@ exports {
 }
 
 client_scripts {
-	'@es_extended/locale.lua',
 	'client.lua',
 }
-
-dependency 'es_extended'
